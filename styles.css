@@ -70,6 +70,7 @@ img {
 
 li {
   color: darkorchid;
+  text-align: center;
 }
 
 body {
@@ -80,8 +81,4 @@ body {
   display: block;
   margin-left: auto;
   margin-right: auto;
-}
-
-body {
-  width: 400px;
 }
