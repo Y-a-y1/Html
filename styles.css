@@ -13,6 +13,9 @@
 .Schoolinternships {
   font-family: Arial;
 }
+.name {
+  color: navy;
+}
 #haha {
   background-color: grey;
   color: gold;
@@ -30,6 +33,10 @@
   color: gold;
 }
 #hoho {
+  background-color: grey;
+  color: gold;
+}
+#hühü {
   background-color: grey;
   color: gold;
 }
