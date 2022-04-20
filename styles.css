@@ -1,5 +1,4 @@
 .Education {
-  background-color: black;
   font-family: Arial;
 }
 .Hobbys {  
@@ -37,4 +36,7 @@
 
 img {
   border-radius: 50%;
+}
+li {
+  color: darkorchid;
 }
