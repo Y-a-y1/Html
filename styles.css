@@ -2,51 +2,62 @@
   font-family: Arial;
   text-align: center;
 }
-.Hobbys {  
+
+.Hobbys {
   font-family: Arial;
   text-align: center;
 }
+
 .Personaldata {
   font-family: Arial;
   text-align: center;
 }
+
 .LanguageSkills {
   font-family: Arial;
   text-align: center;
 }
+
 .Schoolinternships {
   font-family: Arial;
   text-align: center;
 }
+
 .name {
   color: navy;
   text-align: center;
 }
+
 #haha {
   background-color: grey;
   color: gold;
   text-align: center;
 }
+
 #huhu {
   background-color: grey;
   color: gold;
   text-align: center;
 }
+
 #hehe {
   background-color: grey;
   color: gold;
   text-align: center;
 }
+
 #hähä {
   background-color: grey;
   color: gold;
   text-align: center;
 }
+
 #hoho {
   background-color: grey;
   color: gold;
   text-align: center;
 }
+
 #hühü {
   background-color: grey;
   color: gold;
@@ -56,14 +67,21 @@
 img {
   border-radius: 50%;
 }
+
 li {
   color: darkorchid;
 }
+
 body {
   background-color: lightcoral;
 }
+
 .profile-picture {
   display: block;
   margin-left: auto;
   margin-right: auto;
+}
+
+body {
+  width: 400px;
 }
