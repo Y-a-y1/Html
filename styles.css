@@ -1,5 +1,40 @@
-body {background-color: #28282B;}
-h1   {color: blueviolet;
-font-family: verdana;
-  font-size: 200%;}
-p   {color: #b92e34;}
+.Education {
+  background-color: black;
+  font-family: Arial;
+}
+.Hobbys {  
+  font-family: Arial;
+}
+.Personaldata {
+  font-family: Arial;
+}
+.LanguageSkills {
+  font-family: Arial;
+}
+.Schoolinternships {
+  font-family: Arial;
+}
+#haha {
+  background-color: grey;
+  color: gold;
+}
+#huhu {
+  background-color: grey;
+  color: gold;
+}
+#hehe {
+  background-color: grey;
+  color: gold;
+}
+#hähä {
+  background-color: grey;
+  color: gold;
+}
+#hoho {
+  background-color: grey;
+  color: gold;
+}
+
+img {
+  border-radius: 50%;
+}
